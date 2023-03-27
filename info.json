@@ -1,0 +1,10 @@
+{
+	"update": {
+		"version": 2,
+		"url": ["https://www.google.com"]
+	},
+	"hosts": {
+		"api": [],
+		"store": []
+	}
+}
