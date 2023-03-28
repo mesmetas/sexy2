@@ -1,10 +1,17 @@
 {
 	"update": {
 		"version": 2,
-		"url": ["https://www.google.com"]
+		"url": [
+			"https://www.google.com"
+		]
 	},
 	"hosts": {
-		"api": [],
-		"store": []
+		"api": [
+			"https://api.papaguai.com"
+		],
+		"store": [
+			"https://store.papaguai.com/get_file",
+			"https://d2os45ml9kw5vh.cloudfront.net/get_file"
+		]
 	}
 }
