@@ -1,17 +1,17 @@
 {
-	"update": {
-		"version": 107,
-		"url": [
-			"https://papaguai.com/Sexy2Down.html",
-			"https://ppg23331.uk/Sexy2Down.html"
-		]
-	},
-	"hosts": {
-		"api": [
-			"https://api.papaguai.com"
-		],
-		"store": [
-			"https://d2os45ml9kw5vh.cloudfront.net/get_file"
-		]
-	}
+    "update": {
+        "version": 112,
+        "url": [
+            "https://papaguai.com/Sexy2Down.html",
+            "https://ppg23331.uk/Sexy2Down.html"
+        ]
+    },
+    "hosts": {
+        "api": [
+            "https://api.papaguai.com"
+        ],
+        "store": [
+            "https://d2os45ml9kw5vh.cloudfront.net/get_file"
+        ]
+    }
 }
